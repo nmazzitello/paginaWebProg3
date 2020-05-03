@@ -1,0 +1,68 @@
+/* GENERALES*/
+h1
+{
+    font-size: 60px;
+    text-align: center;
+    color: aliceblue;
+}
+
+h2
+{
+    font-size: 30px;
+    text-align: center;
+    color: aliceblue;
+}
+
+textarea
+{
+    max-width: 400px;
+    max-height: 90px;
+    min-width: 400px;
+    min-height: 90px;
+}
+
+
+/*ESPECIFICAS*/
+.fondo
+{
+    background-image: url('../images/Moor.jpg');
+    background-position: center center;
+    background-size: cover;
+    height: 100vh;
+    min-height: 60rem;
+   
+}
+
+.header
+{
+    font-size: 40px;
+    color: crimson;
+    margin-top: 100px;
+    -webkit-text-stroke:  0.01rem white;  
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.intro
+{
+    font-size: 30px;
+    color: aliceblue;
+}
+
+.encontrame
+{
+    font-size: 30px;
+    color: aliceblue;
+}
+
+.contactar
+{
+    font-size: 20px;
+    color: aliceblue;
+    width: 500px;
+    height: 400px;
+    padding-bottom: 0px;
+}
+
+
+
